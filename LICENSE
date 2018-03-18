@@ -1,3 +1,18 @@
+The code and data in PaSaThai are different works. They don't have to be used
+together, and the code license does not apply to the data that it outputs.
+
+- Data is released under the Creative Commons Attribution-ShareAlike 4.0 
+  International (CC BY-SA 4.0) License
+- Software (code) are released under the MIT License
+
+================
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License
+See the license at https://creativecommons.org/licenses/by-sa/4.0/
+
+Attribution requirement for this license is to link to the project page at:
+https://github.com/pasathai/pasathai/DATA-ATTRIBUTIONS.txt 
+
+================
 MIT License
 
 Copyright (c) 2018 pasathai
